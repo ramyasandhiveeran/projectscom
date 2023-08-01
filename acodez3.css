@@ -1,0 +1,342 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.container{
+    background-color: white;
+}
+.pdd{
+    padding: 70px 0px;
+}
+.section{
+    max-width: 1300px;
+    margin: auto;
+}
+.sec1{
+    max-width: 950px;
+}
+.sec2{
+    max-width: 1200px;
+}
+.cont1{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/works-banner.jpg);
+}
+.cont6{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/acodie-1.png);
+    background-position: right;
+}
+.cont8{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/footer-bg.jpg);
+}
+.gen{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.gen1{
+    background-size: cover;
+}
+.minhei{
+    min-height: 100vh;
+}
+.minhei2{
+    min-height: 40vh;
+}
+.minhei3{
+    min-height: 10vh;
+}
+.minhei4{
+    min-height: 75vh;
+}
+.heig1{
+    height: 15%;
+}
+.pd{
+    padding: 0px;
+}
+.pd1{
+    margin: 35px 0px 25px 0px;
+}
+.pd4{
+    padding: 70px 0px 0px 0px;
+}
+.pd5{
+    padding: 5px opx 5px 0px;
+}
+.pd6{
+    padding: 0px 50px 0px 50px;
+ }
+.pd7{
+    padding: 20px 0px 110px 0px;
+}
+.pd8{
+    padding: 15px 0px 50px 0px;
+}
+.pd10{
+    padding: 20px 0px 20px 0px;
+ }
+.pd11{
+    padding: 0px 0px 70px 0px;
+ }
+.mg{
+    margin: 0px;
+}
+.mgt0{
+    margin-top: 130px;
+}
+.mgt1{
+    margin-top: 20px;
+}
+.mgt2{
+    margin-top: 110px;
+}
+.mgt3{
+    margin-top: 25px;
+}
+.mgt5{
+    margin-top: -151px;
+}
+.mgb{
+    margin-bottom: 40px;
+}
+.fosi{
+    font-size: 12px;
+}
+.fosii{
+    font-size: 13px;
+}
+.fosi0{
+    font-size: 14px;
+}
+.fosi1{
+    font-size: 20px;
+}
+.fosi2{
+    font-size: 25px;
+}
+.fosi3{
+    font-size: 18px;
+}
+.fosi4{
+    font-size: 16px;
+}
+.fosi5{
+    font-size: 115px;
+}
+.fosi6{
+    font-size: 17px;
+}
+.fosi7{
+    font-size: 47px;
+}
+.fosi8{
+    font-size: 28px;
+}
+.fosi9{
+    font-size: 22px;
+}
+.fosi10{
+    font-size: 38px;
+}
+.fosi11{
+    font-size: 15px;
+}
+.fosi12{
+    font-size: 11px;
+}
+.ma{
+    margin: auto;
+}
+.df{
+    display: flex;
+}
+.jc{
+    justify-content: space-between;
+}
+.flwr{
+    flex-wrap: wrap;
+}
+.td{
+    text-decoration: none;
+}
+.lst{
+    list-style-type: none;
+}
+.clr{
+    color: black;
+}
+.clr1{
+    color: white;
+}
+.clr2{
+    color: #5e707d;
+}
+.clr3{
+    color: #00aeef;
+}
+.clr4{
+    color: #8fa0ad;
+}
+.clr7{
+    color: #6f7a82;
+}
+.clr6{
+    color: #889198;
+}
+.bagr{
+    background-color: transparent;
+}
+.backg{
+    background-color:rgba(242,245,248,0.66)
+}
+.bg1{
+    background-color: #fff;
+}
+.bg3{
+    background-color: rgb(248,249,251);
+}
+.bg4{
+    background-color:  #00aeef;
+}
+.wd{
+    width: 100%;
+}
+.wd20{
+    width: 20%;
+}
+.wd25{
+    width: 25%;
+}
+.wd30{
+    width: 30%;
+}
+.wd33{
+    width: 33.3%;
+}
+.wd35{
+    width: 35%;
+}
+.wd45{
+    width: 45%;
+}
+.wd48{
+    width: 48%;
+}
+.wd50{
+    width: 50%;
+}
+.wd55{
+    width: 55%;
+}
+.wd60{
+    width: 60%;
+}
+.wd65{
+    width: 65%;
+}
+.wd70{
+    width: 70%;
+}
+.wd75{
+    width: 75%;
+}
+.wd80{
+    width: 80%;
+}
+.wd85{
+    width: 85%;
+}
+.wd90{
+    width: 90%;
+}
+.tac{
+    text-align: center;
+}
+.tal{
+    text-align: left;
+}
+.tar{
+    text-align: right;
+}
+.lh{
+    line-height: 25px;
+}
+.lh1{
+    line-height: 27px;
+}
+.lh2{
+    line-height: 18px;
+}
+.fw{
+    font-weight: bold;
+}
+.fw1{
+    font-weight: 100;
+}
+.fw2{
+    font-weight: 600;
+}
+.fw3{
+    font-weight: 500;
+}
+.but{
+    border: 2px rgb(44, 151, 197) solid ;
+}
+.but1{
+    border: 0px rgb(44, 151, 197) solid ;
+}
+.bsha1{
+    box-shadow: 2px 0px 0px 0px #eaeaea;
+}
+.bs1{
+    box-shadow: 0px 0px 4px 0px rgb(196, 192, 192);
+}
+.b1{
+    border-radius: 15px;
+    padding: 7px 14px;
+    align-items: center;
+}
+.foot{
+    padding: 10px 12px;
+    border-radius: 19px;
+}
+.footbox{
+    max-width: 160px;
+    box-shadow: 0px 1px 2px 0px grey;
+    padding: 10px 40px 10px 20px;
+}
+.kodubox{
+    max-width: 850px;
+    height: 68px;
+}
+.foursection{
+    max-width: 950px;
+    margin-top: 60px;
+}
+.maxwd{
+    max-width: 120px;
+}
+.maxwd2{
+    max-width: 170px;
+}
+.links ul li{
+    margin: 0px 22px;
+}
+.inputmail .b2{
+    border-radius: 1px;
+    font-size: 11px;
+    height: 40px;
+    width: 115px;
+ }
+ .pad{
+    padding: 10px 30px 14px 4px;
+ }
+ .pp{
+    font-size: 20px;
+    line-height: 39px;
+}
+.eight{
+    max-width: 300px;
+}
+.final{
+    max-width: 900px;
+    margin-top: 30px;
+}

@@ -1,0 +1,542 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+.container{
+    background-color: white;
+}
+.hei{
+    height: 100%;
+}
+.mainpad{
+    padding: 70px 0px;
+}
+.mainpad2{
+    padding: 0px 0px 70px 0px;
+}
+.backg{
+    background-color:rgba(242,245,248,0.66)
+}
+.gen{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.minhei{
+    min-height: 100vh;
+}
+.minhei0{
+    min-height: 75vh;
+}
+.minhei1{
+    min-height: 65vh;
+}
+.minhei2{
+    min-height: 40vh;
+}
+.minhei3{
+    min-height: 10vh;
+}
+.cont1{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/main-bg-4.jpg);
+}
+.cont2{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/vector-bg-1.png);
+}
+.cont3{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/vector-bg-1.png);
+}
+.cont7{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/bg.svg);
+}
+.cont8{
+    background-image: url(https://cdn.acodez.in/wp-content/themes/acodez-theme/images/footer-bg.jpg);
+}
+.section{
+    max-width: 1300px;
+    margin: auto;
+}
+.sec1{
+    max-width:950px;
+}
+.sec2{
+    max-width: 940px;
+}
+.sec3{
+    max-width: 1050px;
+}
+.mxwd{
+    max-width: 900px;
+}
+.wd{
+    width: 100%;
+}
+.wd15{
+    width: 18%;
+}
+.wd20{
+    width: 20%;
+}
+.wd25{
+    width: 25%;
+}
+.wd30{
+    width: 30%;
+}
+.wd35{
+    width: 35%;
+}
+.wd47{
+    width: 47%;
+}
+.wd48{
+    width: 48%;
+}
+.wd50{
+    width: 50%;
+}
+.wd58{
+    width: 58%;
+}
+.wd60{
+    width: 60%;
+}
+.wd65{
+    width: 63%;
+}
+.wd70{
+    width: 70%;
+}
+.wd75{
+    width: 75%;
+}
+.wd80{
+    width: 80%;
+}
+.wd85{
+    width: 85%;
+}
+.wd90{
+    width: 90%;
+}
+.wd95{
+    width: 95%;
+}
+.minwd1{
+    min-width: 246px;
+}
+.df{
+    display: flex;
+}
+.diin{
+    display: inline;
+}
+.jc{
+    justify-content: space-between;
+}
+.fwr{
+    flex-wrap: wrap;
+}
+.td{
+    text-decoration: none;
+}
+.lst{
+    list-style-type: none;
+}
+.fosi{
+    font-size: 17px;
+}
+.fosi0{
+    font-size: 14px;
+}
+.fosi1{
+    font-size: 50px;
+}
+.fosi2{
+    font-size: 13px;
+}
+.fosi3{
+    font-size: 18px;
+}
+.fosi4{
+    font-size: 8px;
+}
+.fosi5{
+    font-size: 15px;
+}
+.fosi6{
+    font-size: 11px;
+}
+.fosi7{
+    font-size: 28px;
+}
+.fosi8{
+    font-size: 12px;
+}
+.mg{
+    margin: 0px;
+}
+.mgri{
+    margin-right: 20px;
+}
+.mgri1{
+    margin-right: 2px;
+}
+.mgt{
+    margin-top:100px;
+}
+.mgt1{
+    margin-top: 20px;
+}
+.mgt2{
+    margin-top: 25px;
+}
+.mgt3{
+    margin-top: -83px;
+}
+.mgt5{
+    margin-top: -151px;
+}
+.mgt4{
+    margin-top: 50px;
+}
+.mgt6{
+    margin-top: 145px;
+}
+.mgt7{
+    margin-top: 36px;
+}
+.mgb{
+    margin-bottom: 95px;
+}
+.pd{
+    padding: 0px;
+}
+.pd1{
+   padding: 5px 0px 5px 0px;
+}
+.pd2{
+    padding-top: 70px;
+}
+.pd3{
+   padding: 20px 0px 20px 0px;
+}
+.ma{
+    margin: auto;
+}
+.clr{
+    color: black;
+}
+.clr1{
+    color: white;
+}
+.clr2{
+    color:#5e707d;
+}
+.clr3{
+    color: #00aeef;
+}
+.clr4{
+    color: #6f7a82;
+}
+.clr5{
+    color: #2F3336;
+}
+.clr6{
+    color: #889198;
+}
+.bagr{
+    background-color: transparent;
+}
+.bg{
+    background-color: black;
+}
+.bg0{
+    background-color: white;
+}
+.bg1{
+    background-color: rgb(248,249,251);
+}
+.bg2{
+    background-color:  #00aeef;
+}
+.tac{
+    text-align: center;
+}
+.tal{
+    text-align: left;
+}
+.tar{
+    text-align: right;
+}
+.fw{
+    font-weight: bold;
+}
+.fw1{
+    font-weight: 100;
+}
+.fw2{
+    font-weight: 500;
+}
+.fw3{
+    font-weight: 700;
+}
+.fw4{
+    font-weight: normal;
+}
+.fw5{
+    font-weight: 600;
+}
+.lh{
+    line-height: 25px;
+}
+.lh1{
+    line-height: 22px;
+}
+.lh2{
+    line-height: 18px;
+}
+.lh3{
+    line-height: 37px;
+}
+.bs{
+    box-shadow:0px 1px 14px 8px #5e707d17;
+}
+.bs1{
+    box-shadow: 0px 0px 4px 0px rgb(196, 192, 192);
+}
+.but{
+    border: 2px rgb(44, 151, 197) solid ;
+}
+.but1{
+    border: 0px rgb(44, 151, 197) solid ;
+}
+.pore{
+    position: relative;
+}
+.poab1{
+     position: absolute;
+     left: 186px;
+    top: -103px
+}
+.poab2{
+    position: absolute;
+    top: -45px;
+    left: 341px
+}
+.poab3{
+    position: absolute;
+    top: 61px;
+    left: 239px
+}
+.poab4{
+    position: absolute;
+    top: 120px;
+    left: 394px
+}
+.poab5{
+    position: absolute;
+    top: 195px;
+    left: 319px
+}
+.poab6{
+    position: absolute;
+    top: 258px;
+    left: 183px
+}
+.poab7{
+    position: absolute;
+    left: 302px;
+    top: 39px;
+}
+.poab8{
+    position: absolute;
+    top: -17px;
+    left: 540px
+}
+.poab9{
+    position: absolute;
+    top: -19px;
+    right: 499px;
+}
+.poab10{
+    position: absolute;
+    top: 73px;
+    right: 164px
+}
+.poab11{
+    position: absolute;
+    top: 91px;
+    left: 475px;
+}
+.poab12{
+    position: absolute;
+    right: 194px;
+    top: 203px;
+}
+.poab13{
+    position: absolute;
+    left: 622px;
+    top: 376px
+}
+.poab14{
+    position: absolute;
+    right: 627px;
+    top: 160px;
+}
+.poab15{
+    position: absolute;
+    right: 262px;
+    top: 394px;
+}
+.poab16{
+    position: absolute;
+    top: 267px;
+    right: -4px;
+}
+.allpos{
+    border:1px solid white;
+    border-radius: 100px;
+}
+.b1{
+    border-radius: 15px;
+    padding: 7px 14px;
+    align-items: center;
+}
+.links ul li{
+    margin: 0px 22px;
+}
+.bigh .firsth1{
+    max-width: 250px;
+    font-size: 50px;
+    line-height: 65px;
+    margin-top: 270px;
+}
+.mini{
+    margin: 0px 8px 0px 8px;
+    min-width: 140px;
+    max-width: 180px;
+    padding: 25px 15px;
+    height: 250px;
+}
+.firstp{
+    font-size: 20px;
+}
+.plain .secondp{
+    margin-top: 70px;
+}
+.twobox{
+    max-width: 1100px;
+}
+.mini .firsth3{
+    font-weight: 600;
+}
+.mini .thirdp{
+    word-spacing: 6px;
+    font-weight: 500;
+}
+.movdif{
+    margin-bottom: 200px;
+}
+.radh .won{
+    max-width: 440px;
+}
+.eighty{
+    max-width: 30px;
+}
+.foot{
+    padding: 10px 12px;
+    border-radius: 19px;
+}
+.footbox{
+    max-width: 160px;
+    box-shadow: 0px 1px 2px 0px grey;
+    padding: 10px 40px 10px 20px;
+}
+.kodubox{
+    max-width: 850px;
+    height: 68px;
+}
+.maxwd{
+    max-width: 120px;
+}
+.maxwd2{
+    max-width: 170px;
+}
+.foursection{
+    max-width: 950px;
+    margin-top: 60px;
+}
+.inputmail .b2{
+   border-radius: 1px;
+   font-size: 11px;
+   height: 40px;
+   width: 115px;
+}
+.pad{
+    padding: 10px 30px 14px 4px;
+}
+.final{
+    max-width: 900px;
+    margin-top: 30px;
+}
+.ll{
+    min-height: 10vh;
+}
+.borrad{
+    border: 4px solid #46beea;
+    border-radius: 100px;
+}
+@media screen and (max-width: 768px){
+    .df{
+        flex-direction: column;
+    }
+    img{
+        width: 100%;
+    }
+    .spa{
+        padding: 0px;
+    }
+    .mgri, li{
+        margin: 0px;
+    }
+    .mainhead, .bigh, .sand, .won, .pospic, .critical, .onlybox, .cutebox, .cutebox1, .firstdabba, .plus, .undertext, .blacktext, 
+    .lastbar, .links, .about, .sec1, .plain, .mini, .b1, .hhh{
+        width: 100%;
+    }
+    .cutebox{
+        max-width: 250px;
+        padding: 17px 0px;
+    }
+    .links, .hhh{
+        line-height: 30px;
+    }
+    .img1, .bad, .wd{
+        width: 50%;
+    }
+    .globe, .borrad{
+        width: 20%;
+    }
+    .logo, .links, .bigh, .b1, .firsth2, .firstp, .secondp, .oneword, .pana ,.anchor, .cavin, .axis, .hdfc, .onlybox, 
+    .secondh2, .weblinks, .foursection, .box1{
+        text-align: center;
+    }
+    .mm, .pospic, .critimg{
+        padding: 0px 10px;
+    }
+    .radh{
+        padding: 0px 20px;
+    }
+    .good, .cutebox, .wd, .pl{
+        margin: auto;
+    }
+    .pospic{
+        height: 60vh;
+    }
+    .critimg{
+        min-height: 100vh;
+    }
+    .box1{
+        margin-top: 20px;
+    }
+   
+}
